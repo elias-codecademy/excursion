@@ -1,0 +1,34 @@
+body {
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: normal;
+	font-family: Verdana;
+}
+
+.download {
+	font-size: 16px;
+	color: Aquamarine;
+}
+
+.excursion-title {
+	font-size: 42px;
+	font-family: Verdana;
+	font-weight: 300;
+}
+
+.excursion-description {
+	font-size: 21px;
+	color: gray;
+	font-family: Verdana;
+}
+
+.footer p {
+	color: gray;
+	text-align: right;
+	font-size: 21px;
+}
